@@ -17,8 +17,8 @@ p{
  
 
   .container img{
-    max-width:90%; /* img is responsive thanks to it*/
-    max-height: 500px;
+    max-width:60%; /* img is responsive thanks to it*/
+    
     display:block; /*imgs are inline element, to center it I need to swtich to the block display mode*/
     margin: 0 auto; /*center the image correctly*/
     border-radius: 20px;
